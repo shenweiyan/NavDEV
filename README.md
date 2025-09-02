@@ -28,3 +28,6 @@ $ git pull https://github.com/shenweiyan/WebStack-Hugo.git
 ### 站点地址
 
 - **[https://nav.bioitee.com](https://nav.bioitee.com)**
+
+
+<!-- Security scan triggered at 2025-09-02 14:24:30 -->
